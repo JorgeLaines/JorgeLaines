@@ -1,3 +1,5 @@
+![ArtifitialGeneralIntelligence](https://github.com/JorgeLaines/JorgeLaines/blob/5cad3b6d000909759c3a940a3cd905beadadc877/AGI.png)
+
 ## Hello there! I'm Jorge Laines 👋
 
 ### A Senior Full-Stack Software Engineer :alien:
